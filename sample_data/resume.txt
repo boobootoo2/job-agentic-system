@@ -1,0 +1,3 @@
+John G. Shultz
+Senior Developer specializing in AEM, AI, and Data Engineering.
+Expertise in AEM Sling Models, CI/CD pipelines, Databricks, AWS, and applied machine learning projects.
